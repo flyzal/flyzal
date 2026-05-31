@@ -33,5 +33,3 @@ Latest: `v1.3.0`
 - Email: flyzal.fly@gmail.com
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flyzal&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
