@@ -20,16 +20,24 @@ Latest: `v1.3.0`
 
 ## Stack
 
-**Frontend** — Next.js · TypeScript · Tailwind CSS  
-**Backend** — Node.js · NestJS · PostgreSQL · Supabase  
-**Infra** — Docker · Proxmox · Vercel · Cloudflare  
-**AI** — Claude Code · Hermes Agent · Gemini · Paperclip  
+**Frontend**
+Next.js · React · TypeScript · Tailwind CSS · Fabric.js
+
+**Backend**
+Node.js · NestJS · Python · PostgreSQL · Supabase · Prisma · Drizzle · Redis
+
+**Infrastructure**
+Docker · Proxmox · LXC · Vercel · Cloudflare · Nginx · Linux
+
+**AI & Agents**
+Claude Code · Hermes Agent · Gemini · Paperclip · n8n · Playwright
+
+**Payments & Auth**
+Stripe · Supabase Auth · OAuth
 
 ---
 
 ## Links
 
 - Website: [flyzal.com](https://flyzal.com)
-- Email: flyzal.fly@gmail.com
-
----
+- Email: me@flyzal.com
